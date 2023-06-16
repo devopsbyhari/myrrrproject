@@ -1,4 +1,7 @@
 welcome to devops!
 welcome to cloud!
 welcome to azure!
-welcome to continuesDelievery!
+welcome to Containerization!
+
+this project is help to automate
+all process using Continues Integration and continues delivery
